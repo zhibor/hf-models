@@ -1,0 +1,1 @@
+registry.ollama.ai/library/qwen2.5-coder:1.5b
