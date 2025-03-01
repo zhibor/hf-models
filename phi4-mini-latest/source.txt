@@ -1,0 +1,1 @@
+registry.ollama.ai/library/phi4-mini:latest
